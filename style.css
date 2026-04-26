@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+.main-box {
+    background-color: white;
+    padding: 24px;
+    margin: 24px;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.sub-header {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.home-button {
+    display: block;
+    text-align: center;
+}
